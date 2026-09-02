@@ -1,0 +1,89 @@
+.homescreen{
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+a{
+    color: rgb(215, 113, 113);
+}
+
+a{
+    text-decoration: none;
+}
+
+.dashboard1{
+    text-align: center;
+}
+
+.grades1{
+    text-align: center;
+}
+
+.layout{
+    display: flex;
+}
+.sidebar {
+    width: 130px;
+    height: 23vh;
+    border-right: 2px solid black;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar li {
+    margin-bottom: 5px;
+}
+
+.sidebar a {
+    color: black;
+    text-decoration: none;
+}
+
+.sidebar li {
+    border-bottom: 1px solid black;
+    padding: 5px;
+}
+
+.content {
+    text-align: center;
+    flex: 1;
+}
+.pee {
+    align-items: right;
+    height: 100px;
+    width: 100%;
+
+}
+
+table {
+    border-collapse: collapse;
+}
+.stylesheet{
+    font-size: medium;
+
+}
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    background: palegreen;
+}
+
+.wrapper h1{
+    width: 420px;
+    color: beige;
+    font-size: 36px;
+    text-align: center;
+
+
+    
+}
